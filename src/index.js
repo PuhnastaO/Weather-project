@@ -78,3 +78,4 @@ current.addEventListener("click", navigate);
   let apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${input}&units=metric`;
   axios.get(apiUrl).then(showTemperature);
 }*/
+//I have to add a real city showed by  default
