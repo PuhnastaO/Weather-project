@@ -1,0 +1,66 @@
+.col-6 {
+  text-align: center;
+  max-width: 1000px;
+  margin: 0 auto;
+  display: block;
+  padding: 28px 30px 23px;
+  border-radius: 10px;
+  transition: all 200ms ease-in-out;
+  color: blanchedalmond;
+  background: rgb(92, 80, 91);
+  font-family: "Josefin Sans", sans-serif;
+}
+.myName {
+  color: blanchedalmond;
+  font-weight: 900;
+  padding-top: 10px;
+}
+.myName:hover {
+  color: rgb(255, 205, 205);
+}
+.name-city {
+  text-align: center;
+  display: block;
+  padding: 0px;
+  width: fit-content;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  margin-top: 5px;
+  border-radius: 5px;
+}
+.temperature,
+.day {
+  text-align: start;
+  font-size: x-small;
+  padding: 0px;
+}
+.today {
+  background-color: #964376;
+  padding: 10px;
+  width: fit-content;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  border-radius: 25px;
+  font-size: 26px;
+  font-weight: 600;
+  color: blanchedalmond;
+}
+
+.card {
+  padding: 0px;
+  margin: 0 auto;
+  max-width: fit-content;
+}
+.card-body {
+  padding: 0px;
+  margin: 0 auto;
+}
+.day {
+  font-size: small;
+  margin: 0 auto;
+}
+p {
+  padding: 0px;
+}
