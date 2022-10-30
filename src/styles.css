@@ -4,10 +4,10 @@
   margin: 0 auto;
   display: block;
   padding: 28px 30px 23px;
-  border-radius: 10px;
+
   transition: all 200ms ease-in-out;
   color: blanchedalmond;
-  background-color: rgb(92, 80, 91);
+
   font-family: "Josefin Sans", sans-serif;
 }
 .myName {
@@ -56,6 +56,8 @@
 .card-body {
   padding: 0px;
   margin: 0 auto;
+  background-color: rgb(92, 80, 91);
+  border-radius: 10px;
 }
 .day {
   font-size: small;
